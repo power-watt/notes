@@ -1,6 +1,6 @@
 # Resources for Machine Learning
 
-## Quick Overview
+## Quick Overview Resources
 
 ### NVIDIA 
 * Blog Post - [What's the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
@@ -67,6 +67,53 @@
 3) [What Makes a Good Feature?](https://www.youtube.com/watch?v=N9fDIAflCMY) (6 min)
 4) [Let's Write a Pipline](https://www.youtube.com/watch?v=84gqSbLcBFE&t=162s) (8 min)
 5) [Writing Our First Classifier](https://www.youtube.com/watch?v=AoeEHqVSNOw) (9 min)
-6) [Train an Image Classifier with TensorFlow for Poets](https://www.youtube.com/watch?v=cSKfRcEDGUs&t=2s) (7 min)
-7) [](https://www.youtube.com/watch?v=Gj0iyo265bc&t=320s) (7 min)
-8) [](https://www.youtube.com/watch?v=LDRbO9a6XPU&t=3s) (10 min)
+6) [Train an Image Classifier with TensorFlow for Poets](https://www.youtube.com/watch?v=cSKfRcEDGUs&t=2s) (7 min) \
+7) [Classifying Handwritten Digits with TF Learn](https://www.youtube.com/watch?v=Gj0iyo265bc&t=320s) (7 min)
+8) [Let's Write a Decision Tree Classifier from Scratch](https://www.youtube.com/watch?v=LDRbO9a6XPU&t=3s) (10 min)
+
+## Buzzwords - Have these on your resume
+### Artificial Intelligence (AI)
+* Computers being programmed to do something "smart"
+### Machine Learning (ML)
+* Subfield of AI
+* Statistical analysis of data, lots and lots of data
+  * Can be very simple
+    * Example: Plotting points and drawing a line through it
+  * Can be very complex
+    * Example: **Artificial Neural Networks (ANN)**
+* Definetly involves optimization
+
+### Deep Learning (DL)
+* Subfield of ML
+* An ANN that is many layers "deep" in complexity
+* Requires data sets and GPUs to "train" the ANN
+ 
+### Big Data
+* Three V's: Velocity, Variety, & Volume
+  * Velocity: Data coming in at a high rate
+  * Varity: Incoming data in different structures
+  * Volume: Data is large in size
+* Massive amounts of data (like 100s of Terabytes or so)
+ 
+### Cloud Computing
+* Outsourcing your computation/hardware to a thrid party service that you connect to through the internet
+  * Amazon Web Services (AWS) - Curent dominant cloud provider
+  * Microsoft Azure - Closest compeitior to AWS
+  * IBM and Google Cloud - Trying to catch up to AWS and Azure
+* The cloud providers offer many different services that range from storage, to webhosting, to computation and sut
+* Three main "levels" of service
+  * Infrastructure as a Service (IaaS)
+  * Platform as a Service (PaaS)
+  * Software as a Service (SaaS)
+  
+### Internet of Things (IoT)
+* Connecting things to the internet that normally aren't connected
+  * Examples: "Smart" devices - Smart phone, Smart Watch, Smart Home - Basically are all IoT
+  * Other Example: fridge, toaster, or car engine being connected to the internet
+* Arduinos and Raspbeery Pis are good for this
+* **Industrial Internet of Things (IIoT)**
+  * IoT but for industry applications
+  * Example: General Electric is starting to embed its products with sensors that comunicate over the internet connection and sell software to go along with it
+
+### Edge Computing
+* Collecting small amounts of data from sensors and perfroming some computation onsite before sending the data to a larger collection of data for storage or further computation - Usually sent to the cloud
