@@ -33,3 +33,9 @@ NVIDIA Webinar - [Deep Learning Demystified](https://www.youtube.com/watch?v=TRC
 [Copy other People's work to do Data Science](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science) (3 min)
 
 * Sales pitch for Microsfot Azure Machine Learning and Cortana Machine Learning Gallery
+
+## Conceptual Resources
+### Brandon Rohrer's Blog - [Data Science and Robots](https://brohrer.github.io/blog.html)
+* Blog filled with videos and posts about ML and data science
+* Very good conceptual explanations without getting very technical
+
