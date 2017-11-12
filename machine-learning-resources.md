@@ -28,7 +28,7 @@ NVIDIA Webinar - [Deep Learning Demystified](https://www.youtube.com/watch?v=TRC
 
 [Predict an Answer with a Simple Model](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-for-beginners-predict-an-answer-with-a-simple-model) (8 min)
 
-* Example of summed sqared error (SSE) regression to fit parameters to a line
+* Example of summed squared error (SSE) regression to fit parameters to a line
 
 [Copy other People's work to do Data Science](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-for-beginners-copy-other-peoples-work-to-do-data-science) (3 min)
 
