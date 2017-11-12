@@ -51,3 +51,22 @@
 
 ### YouTube Channel - [DeepLearning.TV](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvZ3ze_4pxKHNh1g5PId36-)
 * Cartoon animations on the concepts behind artificial neural networks
+
+## Technical Resources
+### YouTube Channel - [Mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/playlists?disable_polymer=1)
+* Very advance lectures on ML algorithms, information theory, and statistics
+
+### Course Website - [AP Monitor](https://apm.byu.edu/)
+* Course website on dynamic optimization and control
+* Modeling/optimizing for physical systems
+
+## Tutorials
+### Google Developers - [Machine Learning Recipes Tutorial Series (python)](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+1) [Hello World](https://www.youtube.com/watch?v=cKxRvEZd3Mw) (7 min)
+2) [Visualizing a Decision Tree](https://www.youtube.com/watch?v=tNa99PG8hR8&t=316s) (7 min)
+3) [What Makes a Good Feature?](https://www.youtube.com/watch?v=N9fDIAflCMY) (6 min)
+4) [Let's Write a Pipline](https://www.youtube.com/watch?v=84gqSbLcBFE&t=162s) (8 min)
+5) [Writing Our First Classifier](https://www.youtube.com/watch?v=AoeEHqVSNOw) (9 min)
+6) [Train an Image Classifier with TensorFlow for Poets](https://www.youtube.com/watch?v=cSKfRcEDGUs&t=2s) (7 min)
+7) [](https://www.youtube.com/watch?v=Gj0iyo265bc&t=320s) (7 min)
+8) [](https://www.youtube.com/watch?v=LDRbO9a6XPU&t=3s) (10 min)
