@@ -114,7 +114,7 @@ This document contains a list of resources for learning about Machine Learning a
 * Arduinos and Raspberry Pis are good for this
 * **Industrial Internet of Things (IIoT)**
   * IoT but for industry applications
-  * Example: General Electric is starting to embed its products with sensors that comunicate over the internet connection and sell software to go along with it
+  * Example: General Electric is starting to embed its products with sensors that comunicate over an internet connection and sell software to go along with it
 
 ### Edge Computing
 * Collecting small amounts of data from sensors and performing some computation onsite before sending the data to a larger collection of data for storage or further computation - Usually sent to the cloud
