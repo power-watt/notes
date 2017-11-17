@@ -1,2 +1,2 @@
 # notes
-Notes on various subjects
+Notes on resources for learning about Machine Learning
