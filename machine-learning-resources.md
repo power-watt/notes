@@ -87,7 +87,7 @@ This document contains a list of resources for learning about Machine Learning a
 ### Deep Learning (DL)
 * Subfield of ML
 * An ANN that is many layers "deep" in complexity
-* Requires data sets and GPUs to "train" the ANN
+* Requires very large data sets and GPUs to "train" the ANN
  
 ### Big Data
 * Three V's: Velocity, Variety, & Volume
