@@ -61,19 +61,6 @@ This document contains a list of resources for learning about Machine Learning a
 * Course website on dynamic optimization and control
 * Modeling/optimizing for physical systems
 
-### Textbook - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-* Literally a textbook you would use in college
-> "This book is designed for researchers and students in a broad variety of
-fields: statistics, artificial intelligence, engineering, finance and others. We
-expect that the reader will have had at least one elementary course in
-statistics, covering basic topics including linear regression. <br>
-We have not attempted to write a comprehensive catalog of learning
-methods, but rather to describe some of the most important techniques.
-Equally notable, we describe the underlying concepts and considerations
-by which a researcher can judge a learning method. We have tried to write
-this book in an intuitive fashion, emphasizing concepts rather than mathematical
-details" - page 7
-
 ## Tutorials
 ### Google Developers - [Machine Learning Recipes Tutorial Series (python)](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 1) [Hello World](https://www.youtube.com/watch?v=cKxRvEZd3Mw) (7 min)
