@@ -54,11 +54,16 @@ This document contains a list of resources for learning about Machine Learning a
 * Cartoon animations on the concepts behind artificial neural networks
 
 ## Technical Resources
+## YouTube Channel - [Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists?view=1&flow=grid)
+* Lectures from the University of Edinburgh, UK
+* Covers machine learning, natural language processing, web scraping, and search engines
+* No code, just theory
+
 ### YouTube Channel - [Mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/playlists?disable_polymer=1)
 * Very advance lectures on ML algorithms, information theory, and statistics
 
 ### Course Website - [AP Monitor](https://apm.byu.edu/)
-* Course website on dynamic optimization and control
+* Course website on dynamic optimization and control from Brigham Young University
 * Modeling/optimizing for physical systems
 
 ## Tutorials
