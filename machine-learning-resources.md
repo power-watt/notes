@@ -155,12 +155,18 @@ This document contains a list of resources for learning about Machine Learning a
     * There might be some quick preprocessing done to format the data
   * Processing
     * May require high performance computing (HPC) practices
-        * C, C++, and Fortan are good for HPC applications - Because they are compiled low level languages
+        * C, C++, and Fortran are good for HPC applications - Because they are compiled, low level languages
         * R and Matlab are bad for HPC applications - Because they are interpreted, high level languages
         * Python - depends on how you do it
         * Hardware accelerators, like GPUs, are great for HPC applications
-        * Any parallelization done is great for HPC applications - Implement threading or use libraries such as MPI, CUDA, or BLAS
+        * Any parallelization is great for HPC applications - Implement threading or use libraries such as MPI, CUDA, or BLAS
     * Ideally you would skip the storage step and stream your data into processing as it is captured
   * Visualization
     * Making the processed data in human readable form - charts, graphs, and heat maps
 * Any part of the workflow could be considered "Data Science"
+* A data scientist is the same thing as an analyst but they don't want to be called an "analyst"
+    * Maybe they have a background in STEM or maybe they don't
+
+### Data Engineering
+* Maintaining the infrastructure and architecture of a system for other people to use
+* A data engineering is the same thing as an admin (System Admin or Database Admin) but don't want to be called an "admin"
