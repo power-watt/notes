@@ -60,7 +60,7 @@ This document contains a list of resources for learning about Machine Learning a
 * No code, just theory
 
 ### YouTube Channel - [Mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/playlists?disable_polymer=1)
-* Very advance lectures on ML algorithms, information theory, and statistics
+* Math intensive lectures on ML algorithms, information theory, and statistics
 
 ### Course Website - [AP Monitor](https://apm.byu.edu/)
 * Course website on dynamic optimization and control from Brigham Young University
