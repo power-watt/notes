@@ -2,8 +2,8 @@
 ## Table of Contentents
 * [Introduction](#introduction)
 * [What is Machine Learning?](#what-is-machine-learning)
-* [Conceptual Resources](concpetual-resources)
-* [Technical Resources](technical-resources)
+* [Conceptual Resources](#conceptual-resources)
+* [Technical Resources](#technical-resources)
 * [Programming Tutorials](#programming-tutorials)
 * [Vocab](#vocab)
 
@@ -159,7 +159,7 @@ This document contains a list of resources for learning about Machine Learning a
         * R and Matlab are bad for HPC applications - Because they are interpreted, high level languages
         * Python - depends on how you do it
         * Hardware accelerators, like GPUs, are great for HPC applications
-        * Any parallization done is great for HPC applications - Implement threading or use libraries such as MPI, CUDA, or BLAS
+        * Any parallelization done is great for HPC applications - Implement threading or use libraries such as MPI, CUDA, or BLAS
     * Ideally you would skip the storage step and stream your data into processing as it is captured
   * Visualization
     * Making the processed data in human readable form - charts, graphs, and heat maps
