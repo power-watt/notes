@@ -54,7 +54,7 @@ This document contains a list of resources for learning about Machine Learning a
 * Cartoon animations on the concepts behind artificial neural networks
 
 ## Technical Resources
-## YouTube Channel - [Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists?view=1&flow=grid)
+### YouTube Channel - [Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists?view=1&flow=grid)
 * Lectures from the University of Edinburgh, UK
 * Covers machine learning, natural language processing, web scraping, and search engines
 * No code, just theory
