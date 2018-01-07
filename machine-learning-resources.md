@@ -1,9 +1,19 @@
-# Resources for Machine Learning - Introduction
+# Resources for Machine Learning
+## Table of Contentents
+* [Introduction](#introduction)
+* [What is Machine Learning?](#what-is-machine-learning)
+* [Conceptual Resources](concpetual-resources)
+* [Technical Resources](technical-resources)
+* [Programming Tutorials](#programming-tutorials)
+* [Vocab](#vocab)
+
+
+## Introduction
 This document contains a list of resources for learning about Machine Learning and some summary notes. I have also included a list of "buzzwords" that get thrown around a lot with some notes of my opinion about those buzzwords.
 
-## Quick Overview Resources
+## What is Machine Learning?
 
-### NVIDIA 
+###  NVIDIA Explains what Machine Learning is
 * Blog Post - [What's the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 * Webinar - [Deep Learning Demystified](https://www.youtube.com/watch?v=TRCiS2lnGOk&feature=youtu.be) (23 min)
 
@@ -66,7 +76,7 @@ This document contains a list of resources for learning about Machine Learning a
 * Course website on dynamic optimization and control from Brigham Young University
 * Modeling/optimizing for physical systems
 
-## Tutorials
+## Programming Tutorials
 ### Google Developers - [Machine Learning Recipes Tutorial Series (python)](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 1) [Hello World](https://www.youtube.com/watch?v=cKxRvEZd3Mw) (7 min)
 2) [Visualizing a Decision Tree](https://www.youtube.com/watch?v=tNa99PG8hR8&t=316s) (7 min)
@@ -77,7 +87,7 @@ This document contains a list of resources for learning about Machine Learning a
 7) [Classifying Handwritten Digits with TF Learn](https://www.youtube.com/watch?v=Gj0iyo265bc&t=320s) (7 min)
 8) [Let's Write a Decision Tree Classifier from Scratch](https://www.youtube.com/watch?v=LDRbO9a6XPU&t=3s) (10 min)
 
-## Buzzwords - Have these on your resume
+## Vocab 
 ### Artificial Intelligence (AI)
 * Computers being programmed to do something "smart"
 ### Machine Learning (ML)
@@ -114,7 +124,7 @@ This document contains a list of resources for learning about Machine Learning a
   
 ### Internet of Things (IoT)
 * Connecting things to the internet that normally aren't connected
-  * Examples: "Smart" devices - Smart phone, Smart Watch, Smart Home - Basically are all IoT
+  * Examples: "Smart" devices - Smart phone, Smart Watch, Smart Home - All are IoT
   * Other Example: fridge, toaster, or car engine being connected to the internet
 * Arduinos and Raspberry Pis are good for this
 * **Industrial Internet of Things (IIoT)**
@@ -125,19 +135,15 @@ This document contains a list of resources for learning about Machine Learning a
 * Collecting small amounts of data from sensors and performing some computation onsite before sending the data to a larger collection of data for storage or further computation - Usually sent to the cloud
 
 ### Hadoop Distributed File System (HDFS)
-* Sometimes referred to as "Hadoop"
+* Commonly referred to as "Hadoop"
 * An opensource database framework designed for storing data across a cluster of machines
   * YARN and HDFS are the core components in the architecture
-  * YARN
-    * A technical portion of Hadoop to be aware of to better understand the architecture
-    * The Data Operating System that runs on top of HDFS
-    * It does Cluster Resource Management
-* HDFS is a distributed data base - The data is distributed across a cluster of machines
+    * YARN is technical portion of Hadoop to be aware of to better understand the architecture
+* HDFS is a distributed file system - The data is distributed across a cluster of machines
   * Good with big data
 * There are many appendage-like services that may or may not be installed on top of HDFS and YARN
   * **Apache Spark**
-    * An important in-memory data processing engine that people use
-    * It's kind of like a HDFS version of a SQL database
+    * It's kind of like a SQL database for HDFS
     * Experience with Apache Spark is considered very valuable
     
 ### Data Science
@@ -145,11 +151,16 @@ This document contains a list of resources for learning about Machine Learning a
   * Data Capture
     * Implementing sensors to collect data - usually IoT
   * Storage
-    * Basically storing data
+    * Storing data with good practices
     * There might be some quick preprocessing done to format the data
   * Processing
-    * Basically it's high performance computing (HPC)
+    * May require high performance computing (HPC) practices
+        * C, C++, and Fortan are good for HPC applications - Because they are compiled low level languages
+        * R and Matlab are bad for HPC applications - Because they are interpreted, high level languages
+        * Python - depends on how you do it
+        * Hardware accelerators, like GPUs, are great for HPC applications
+        * Any parallization done is great for HPC applications - Implement threading or use libraries such as MPI, CUDA, or BLAS
     * Ideally you would skip the storage step and stream your data into processing as it is captured
   * Visualization
-    * Making the processed data in human readable form - usually charts, graphs, and heat maps
+    * Making the processed data in human readable form - charts, graphs, and heat maps
 * Any part of the workflow could be considered "Data Science"
