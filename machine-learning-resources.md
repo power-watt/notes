@@ -169,4 +169,4 @@ This document contains a list of resources for learning about Machine Learning a
 
 ### Data Engineering
 * Maintaining the infrastructure and architecture of a system for other people to use
-* A data engineering is the same thing as an admin (System Admin or Database Admin) but don't want to be called an "admin"
+* A data engineer is the same thing as an admin (System Admin or Database Admin) but don't want to be called an "admin"
