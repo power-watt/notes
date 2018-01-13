@@ -1,4 +1,4 @@
-# Some notes on Cripytocurrecny
+# Some notes on Cryptocurrecny
 ## Videos
 ### 3brown1blue 
 * [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.3blue1brown.com/videos/2017/7/11/ever-wonder-how-bitcoin-and-other-cryptocurrencies-actually-work) (26 min)
