@@ -164,8 +164,6 @@ This document contains a list of resources for learning about Machine Learning a
   * Visualization
     * Making the processed data in human readable form - charts, graphs, and heat maps
 * Any part of the workflow could be considered "Data Science"
-* A data scientist is the same thing as an analyst but they doesn't want to be called an "analyst"
-    * Maybe they have a background in STEM or maybe they don't
 
 ### Data Engineering
 * Maintaining the infrastructure and architecture of a system for other people to use
