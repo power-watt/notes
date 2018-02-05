@@ -47,7 +47,7 @@ This document contains a list of resources for learning about Machine Learning a
 
 * Sales pitch for Microsoft Azure Machine Learning and Cortana Machine Learning Gallery
 
-### Janson Mayers's Slide Deck - [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
+### Jason Mayers's Slide Deck - [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
 * Jason is a "Senior Creative Engineer" at Google
 * The end of the slide deck is a sales pitch for Google Cloud
 
