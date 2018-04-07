@@ -22,6 +22,12 @@
 * [Binding and Listening with Sockets](https://pythonprogramming.net/python-binding-listening-sockets/)
 * [Client Server System with Sockets](https://pythonprogramming.net/client-server-python-sockets/)
 * More videos and tutorials can be found scattered throughout the website and [YouTube Channel](https://www.youtube.com/user/sentdex/featured)
+### [Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists?view=1&flow=grid) - YouTube Channel
+* Lectures from the University of Edinburgh, UK
+* Covers machine learning, natural language processing, web scraping, and search engines
+    * [Extracting Content from Web Pages](https://www.youtube.com/watch?v=pr97boaCb18&list=PLBv09BD7ez_4SyH-IRFFm488D1Ra02l_6)
+    * [Web Crawling](https://www.youtube.com/watch?v=qbQ8ZSEwniM&list=PLBv09BD7ez_5_6dtunw6nNqyQwvLeixNz&index=3)
+* Focused on theory and not code
 ### [Automate The Boring Stuff](https://automatetheboringstuff.com) - python book
 * [Chapter 11](https://automatetheboringstuff.com/chapter11/) is on web scraping
 
