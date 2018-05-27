@@ -64,19 +64,33 @@ This document contains a list of resources for learning about Machine Learning a
 3) [What is Backpropagation and What is it Actually Doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U) (14 min)
 4) [Backpropagation Calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8) (10 min)
 
-### YouTube Channel - [DeepLearning.TV](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvZ3ze_4pxKHNh1g5PId36-)
+### [DeepLearning.TV](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvZ3ze_4pxKHNh1g5PId36-) - YouTube Channel
 * Cartoon animations on the concepts behind artificial neural networks
 
 ## Technical Resources
-### YouTube Channel - [Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists?view=1&flow=grid)
+### [University of Utah Introduction To Data Science](http://datasciencecourse.net/2018/) - Course Website
+* [Course Syllabus](http://datasciencecourse.net/2018/syllabus/) - The course provides an introduction to a wide varity of topics
+    * Introduction to data analysis tools in Python
+    * Statistics
+    * Popular machine learning models: regression, classification, clustering, dimensionality reduction
+    * Data collection and formating
+    * Data visualization
+    * And much more
+* [Lecture Material](https://github.com/datascience-course/2018-datascience-lectures) - Github repository of Jupyter Notebooks
+* Everything taught is demonstrated in python
+
+### [Victor Lavrenko](https://www.youtube.com/user/victorlavrenko/playlists?view=1&flow=grid) - YouTube Channel
 * Lectures from the University of Edinburgh, UK
 * Covers machine learning, natural language processing, web scraping, and search engines
 * No code, just theory
 
-### YouTube Channel - [Mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/playlists?disable_polymer=1)
+### [Mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/playlists?disable_polymer=1) - YouTube Channel
 * Math intensive lectures on ML algorithms, information theory, and statistics
 
-### Course Website - [AP Monitor](https://apm.byu.edu/)
+### [Ox educ](https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm) - YouTube Channel
+* Math intensive lectures on bayesian statistics
+
+### [AP Monitor](https://apm.byu.edu/) - Course Website
 * Course website on dynamic optimization and control from Brigham Young University
 * Modeling/optimizing for physical systems
 
