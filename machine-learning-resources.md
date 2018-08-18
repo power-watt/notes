@@ -64,6 +64,36 @@ This document contains a list of resources for learning about Machine Learning a
 3) [What is Backpropagation and What is it Actually Doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U) (14 min)
 4) [Backpropagation Calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8) (10 min)
 
+### [Welch Labs](http://www.welchlabs.com/) 
+* [Neural Networks Demystified video series](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - Supporting code [here](https://github.com/stephencwelch/Neural-Networks-Demystified)
+    * A good solid walk through on the mathematics of regression neural networks
+    1) [Data and Architecture](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=1) (3 min)
+    2) [Forward Propagation](https://www.youtube.com/watch?v=UJwK6jAStmg&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=2) (5 min)
+    3) [Gradient Descent](https://www.youtube.com/watch?v=5u0jaA3qAGk&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=3) (7 min)
+    4) [Backprogagation](https://www.youtube.com/watch?v=GlcnxUlrtek&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=4) (8 min)
+    5) [Numerical Gradient Checking](https://www.youtube.com/watch?v=pHMzNW8Agq4&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=5) (4 min)
+    6) [Training](https://www.youtube.com/watch?v=9KM9Td6RVgQ&index=6&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) (5 min)
+    7) [Overfitting, Testing, and Regularization](https://www.youtube.com/watch?v=S4ZUwgesjS8&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=7) (6 min)
+* [Learning To See video series](https://www.youtube.com/watch?v=i8D90DkCLhI&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) - Supporting code [here](https://github.com/stephencwelch/LearningToSee)
+    * How decision trees can be used for computer vision
+    * Explains the historical background of these concepts
+    1) [Introduction](https://www.youtube.com/watch?v=i8D90DkCLhI&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (7 min)
+    2) [Rules on Rules on Rules](https://www.youtube.com/watch?v=2ZhQkD1QKFw&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=2) (6 min)
+    3) [Now I R1](https://www.youtube.com/watch?v=0cRXaORbIFA&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=3) (7 min)
+    4) [Machine Learning](https://www.youtube.com/watch?v=sarVw-iVWgc&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=4) (7 min)
+    5) [To Learn is to Generalize](https://www.youtube.com/watch?v=efR8ybG7Ihs&index=5&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (6 min)
+    6) [It's Definitely Time to Play with Legos](https://www.youtube.com/watch?v=GufQYkMkdpw&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=6) (6 min)
+    7) [There is no f](https://www.youtube.com/watch?v=klWUOO4sHaA&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=7) (8 min)
+    8) [More Assumptions ... Fewer Problems?](https://www.youtube.com/watch?v=UVwwYZMFocg&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=8) (13 min)
+    9) [Bias Variance Throwdown](https://www.youtube.com/watch?v=yLwZEuybaqE&index=9&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (8 min)
+    10) [World Domination](https://www.youtube.com/watch?v=6cvPj9dmYTo&index=10&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (8 min)
+    11) [Haystacks on Haystacks](https://www.youtube.com/watch?v=biy2yU3Auc4&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=11) (10 min)
+    12) [Let's Get Greedy](https://www.youtube.com/watch?v=Kg8W_q8pHik&index=12&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (10 min)
+    13) [Heuristics](https://www.youtube.com/watch?v=g_sA8hYU3b8&index=13&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (10 min)
+    14) [Better Heuristics](https://www.youtube.com/watch?v=tPHImr2sFBM&index=14&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (13 min)
+    15) [Information](https://www.youtube.com/watch?v=FMCY3SXTELE&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV&index=15) (14 min)
+* [GitHub Account](https://github.com/stephencwelch)
+
 ### [DeepLearning.TV](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvZ3ze_4pxKHNh1g5PId36-) - YouTube Channel
 * Cartoon animations on the concepts behind artificial neural networks
 
@@ -104,6 +134,8 @@ This document contains a list of resources for learning about Machine Learning a
 6) [Train an Image Classifier with TensorFlow for Poets](https://www.youtube.com/watch?v=cSKfRcEDGUs&t=2s) (7 min)
 7) [Classifying Handwritten Digits with TF Learn](https://www.youtube.com/watch?v=Gj0iyo265bc&t=320s) (7 min)
 8) [Let's Write a Decision Tree Classifier from Scratch](https://www.youtube.com/watch?v=LDRbO9a6XPU&t=3s) (10 min)
+9) [Intro to Feature Engineering with TensorFlow](https://www.youtube.com/watch?v=d12ra3b_M-0&index=9&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) (8 min)
+10) [Getting Started with Weka](https://www.youtube.com/watch?v=TF1yh5PKaqI&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&index=10) (10 min)
 
 ## Vocab 
 ### Artificial Intelligence (AI)
@@ -145,6 +177,7 @@ This document contains a list of resources for learning about Machine Learning a
   * Examples: "Smart" devices - Smart phone, Smart Watch, Smart Home - All are IoT
   * Other Example: fridge, toaster, or car engine being connected to the internet
 * Arduinos and Raspberry Pis are good for this
+* Any knowledge of network protocols, cyber security, and signal processing is useful
 * **Industrial Internet of Things (IIoT)**
   * IoT but for industry applications
   * Example: General Electric is starting to embed its products with sensors that comunicate over an internet connection and sell software to go along with it
@@ -155,34 +188,44 @@ This document contains a list of resources for learning about Machine Learning a
 ### Hadoop Distributed File System (HDFS)
 * Commonly referred to as "Hadoop"
 * An opensource database framework designed for storing data across a cluster of machines
-  * YARN and HDFS are the core components in the architecture
-    * YARN is technical portion of Hadoop to be aware of to better understand the architecture
-* HDFS is a distributed file system - The data is distributed across a cluster of machines
-  * Good with big data
-* There are many appendage-like services that may or may not be installed on top of HDFS and YARN
+* There are many appendage-like services that may or may not be installed on top of HDFS
   * **Apache Spark**
     * It's kind of like a SQL database for HDFS
     * Experience with Apache Spark is considered very valuable
+* HDFS is a distributed file system - The data is distributed across a cluster of machines
+  * Good with big data
+
     
 ### Data Science
 * Basic workflow: Data Capture -> Storage -> Processing -> Visualization
   * Data Capture
-    * Implementing sensors to collect data - usually IoT
+    * Any knowledge of network protocols, cyber security, and encoding will serve you well
+    * Possible sources of data:
+        * Using an API or webscraping the internet
+        * Implementing sensors - IoT can be used here
   * Storage
     * Storing data with good practices
-    * There might be some quick preprocessing done to format the data
+    * Hopefully there is some preprocessing done to format the data
   * Processing
+    * Throwing the data through algorithms and crunching the numbers
     * May require high performance computing (HPC) practices
         * C, C++, and Fortran are good for HPC applications - Because they are compiled, low level languages
-        * R and Matlab are bad for HPC applications - Because they are interpreted, high level languages
-        * Python - depends on how you do it
+        * R and Matlab are bad for HPC applications - Because they are interpreted, high level languages that just don't scale well
+        * Python - Can be good or bad depending on how you do it
+        * Julia - Julia is like this new kid on the block that's looking to pick a fight with Python, Matlab, and R but isn't developed enough to be much of a threat (yet)
         * Hardware accelerators, like GPUs, are great for HPC applications
         * Any parallelization is great for HPC applications - Implement threading or use libraries such as MPI, CUDA, or BLAS
     * Ideally you would skip the storage step and stream your data into processing as it is captured
   * Visualization
     * Making the processed data in human readable form - charts, graphs, and heat maps
 * Any part of the workflow could be considered "Data Science"
+* A lot of time is spent formatting data and it can be a huge bottleneck between any of the steps in the workflow
+    * Good data storage practices can help reduce this problem
+    * Useful things for formating data files
+        * Regular Expressions (RegEx) are the most valuable thing you could ever know for this
+        * The linux commands "awk", "grep", and "sed" - AWK is technically it's own language
 
 ### Data Engineering
-* Maintaining the infrastructure and architecture of a system for other people to use
-* A data engineer is the same thing as an admin (System Admin or Database Admin) but doesn't want to be called an "admin"
+* Being an admin (System Admin or Database Admin) but using the words "data" and "engineering" instead of "admin"
+* Maintaining the infrastructure/architecture of a system for other people to use
+* Focuses on the Data Capture and/or Storage aspects of the Data Science Work flow
