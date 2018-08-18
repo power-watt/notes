@@ -228,4 +228,4 @@ This document contains a list of resources for learning about Machine Learning a
 ### Data Engineering
 * Being an admin (System Admin or Database Admin) but using the words "data" and "engineering" instead of "admin"
 * Maintaining the infrastructure/architecture of a system for other people to use
-* Focuses on the Data Capture and/or Storage aspects of the Data Science Work flow
+* Focuses on the Data Capture and/or Storage aspects of the Data Science workflow
