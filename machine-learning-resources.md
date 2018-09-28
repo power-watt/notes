@@ -52,11 +52,7 @@ This document contains a list of resources for learning about Machine Learning a
 * The end of the slide deck is a sales pitch for Google Cloud
 
 ## Conceptual Resources
-### Brandon Rohrer's Blog - [Data Science and Robots](https://brohrer.github.io/blog.html)
-* Blog filled with videos and posts about ML and data science
-* Very good conceptual explanations without getting very technical
-
-### 3 Brown 1 Blue - [Neural Network Video Series](https://www.3blue1brown.com/videos/2017/10/9/neural-network)
+### 3 Blue 1 Brown - [Neural Network Video Series](https://www.3blue1brown.com/videos/2017/10/9/neural-network)
 * Great anamiations and visualizations
 * A little technical but not overwhelming
 1) [But what *is* a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) (19 min)
@@ -64,13 +60,17 @@ This document contains a list of resources for learning about Machine Learning a
 3) [What is Backpropagation and What is it Actually Doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U) (14 min)
 4) [Backpropagation Calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8) (10 min)
 
+### Brandon Rohrer's Blog - [Data Science and Robots](https://brohrer.github.io/blog.html)
+* Blog filled with videos and posts about ML and data science
+* Very good conceptual explanations without getting very technical
+
 ### [Welch Labs](http://www.welchlabs.com/) 
 * [Neural Networks Demystified video series](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - Supporting code [here](https://github.com/stephencwelch/Neural-Networks-Demystified)
     * A good solid walk through on the mathematics of regression neural networks
     1) [Data and Architecture](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=1) (3 min)
     2) [Forward Propagation](https://www.youtube.com/watch?v=UJwK6jAStmg&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=2) (5 min)
     3) [Gradient Descent](https://www.youtube.com/watch?v=5u0jaA3qAGk&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=3) (7 min)
-    4) [Backprogagation](https://www.youtube.com/watch?v=GlcnxUlrtek&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=4) (8 min)
+    4) [Backpropagation](https://www.youtube.com/watch?v=GlcnxUlrtek&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=4) (8 min)
     5) [Numerical Gradient Checking](https://www.youtube.com/watch?v=pHMzNW8Agq4&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=5) (4 min)
     6) [Training](https://www.youtube.com/watch?v=9KM9Td6RVgQ&index=6&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) (5 min)
     7) [Overfitting, Testing, and Regularization](https://www.youtube.com/watch?v=S4ZUwgesjS8&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=7) (6 min)
@@ -142,12 +142,39 @@ This document contains a list of resources for learning about Machine Learning a
 * Computers being programmed to do something "smart"
 ### Machine Learning (ML)
 * Subfield of AI
-* Statistical analysis of data, lots and lots of data
+* Statistical/optimization algorithms that use lots and lots of data to develop a model or find a correlation
   * Can be very simple
-    * Example: Plotting points and drawing a line through it
+    * Example: Plotting points and drawing a line through it (linear regression model)
   * Can be very complex
-    * Example: **Artificial Neural Networks (ANN)**
-* Definitley involves optimization
+    * Example: **Artificial Neural Networks (ANN)** (which just a really big non-linear regression model)
+  * Popular algorthims
+    * K-Nearest Neighbor (KNN)
+    * K-means
+    * Support Vector Machine (SVM)
+    * Artificial Neuarl Network
+      * Convolutional Neural Network (CNN) - Good for image processing
+      * Recurrent Neural Network (RNN)
+    * Decision Tree
+      * Random Forests
+    * Linear and Non-linear regression
+    * Naive Bayes
+* Areas of math that ML uses
+    * Linear Algebra
+    * Statistics
+      * Bayesian statistics
+      * Markov chains
+      * Monte carlo
+      * Regression
+        * l1-norm and l2-norm
+        * Confidence intervals
+      * Correlation
+    * Set theory - Knowing set theory notation will help you read/understand algorithm documentation
+    * Information Theory - For decision trees
+      * Information entropy and gini impurity
+    * Calculus
+      * How maximuns/minimums can be found using derivatives (gradient based optimization)
+        * Gradient steepest decent
+      * Chain rule - for ANN    
 
 ### Deep Learning (DL)
 * Subfield of ML
@@ -184,28 +211,20 @@ This document contains a list of resources for learning about Machine Learning a
 
 ### Edge Computing
 * Collecting small amounts of data from sensors and performing some computation onsite before sending the data to a larger collection of data for storage or further computation - Usually sent to the cloud
-
-### Hadoop Distributed File System (HDFS)
-* Commonly referred to as "Hadoop"
-* An opensource database framework designed for storing data across a cluster of machines
-* There are many appendage-like services that may or may not be installed on top of HDFS
-  * **Apache Spark**
-    * It's kind of like a SQL database for HDFS
-    * Experience with Apache Spark is considered very valuable
-* HDFS is a distributed file system - The data is distributed across a cluster of machines
-  * Good with big data
-
-    
+   
 ### Data Science
-* Basic workflow: Data Capture -> Storage -> Processing -> Visualization
+* Basic Data Science workflow: Data Capture --> Storage --> Processing --> Visualization
+  * Any part of the workflow could be considered "Data Science"
   * Data Capture
     * Any knowledge of network protocols, cyber security, and encoding will serve you well
     * Possible sources of data:
+        * Physical sensors - IoT can be used here
         * Using an API or webscraping the internet
-        * Implementing sensors - IoT can be used here
+        * Existing databases
   * Storage
     * Storing data with good practices
     * Hopefully there is some preprocessing done to format the data
+    * Knowledge of databases and file systems are useful
   * Processing
     * Throwing the data through algorithms and crunching the numbers
     * May require high performance computing (HPC) practices
@@ -217,15 +236,37 @@ This document contains a list of resources for learning about Machine Learning a
         * Any parallelization is great for HPC applications - Implement threading or use libraries such as MPI, CUDA, or BLAS
     * Ideally you would skip the storage step and stream your data into processing as it is captured
   * Visualization
-    * Making the processed data in human readable form - charts, graphs, and heat maps
-* Any part of the workflow could be considered "Data Science"
-* A lot of time is spent formatting data and it can be a huge bottleneck between any of the steps in the workflow
+    * Making the processed data in human readable form
+        * Charts and Graphs
+        * Heat Maps - Do NOT use the Jet colormap
+        * Custom dashboards and animations - Front-end web development is good at this: HTML, CSS, JavaScript (especially D3.js)
+        * Create a graphic user interface (GUI) - A GUI would probably be over complicating things
+     * Tableau software specializes in visualization
+* A lot of time can be spent formatting data and it can be a huge bottleneck between any of the steps in the workflow
     * Good data storage practices can help reduce this problem
-    * Useful things for formating data files
-        * Regular Expressions (RegEx) are the most valuable thing you could ever know for this
+    * Sometimes you have to querry data from querry a database to get the information you want
+    * Useful things for parsing/formating data files
+        * Use a parsing libraries
+        * Regular Expressions (RegEx) are super valuable
         * The linux commands "awk", "grep", and "sed" - AWK is technically it's own language
+    * Know your popular file formats
+        * JavaScript Object Notation (JSON)
+        * Comma Separated Values (CSV)
+        * Extensible Markup Language (XML)
+        * Hypertext Markup Language (HTML)
+ * Maybe you can get away with doing all of this in Microsoft Excel or maybe you can't
 
 ### Data Engineering
 * Being an admin (System Admin or Database Admin) but using the words "data" and "engineering" instead of "admin"
 * Maintaining the infrastructure/architecture of a system for other people to use
 * Focuses on the Data Capture and/or Storage aspects of the Data Science workflow
+
+### Hadoop Distributed File System (HDFS)
+* Commonly referred to as "Hadoop"
+* An opensource database framework designed for storing data across a cluster of machines
+* There are many appendage-like services that may or may not be installed on top of HDFS
+  * **Apache Spark**
+    * It's kind of like a SQL database for HDFS
+    * Experience with Apache Spark is considered very valuable
+* HDFS is a distributed file system - The data is distributed across a cluster of machines
+  * Good with big data
