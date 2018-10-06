@@ -113,11 +113,11 @@ This document contains a list of resources for learning about Machine Learning a
 * Covers machine learning, natural language processing, web scraping, and search engines
 * No code, just theory
 
-### [Mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/playlists?disable_polymer=1) - YouTube Channel
-* Math intensive lectures on ML algorithms, information theory, and statistics
+### [Ben Lambert's "A Student's Guide to Bayesian Statistics"](https://www.youtube.com/watch?v=P_og8H-VkIY&list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG) - YouTube Video Series
+* Lectures on bayesian statistics - good introduction to the topic starting at the basics of probability
 
-### [Ox educ](https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm) - YouTube Channel
-* Math intensive lectures on bayesian statistics
+### [Mathematicalmonk](https://www.youtube.com/user/mathematicalmonk/playlists?disable_polymer=1) - YouTube Channel
+* Indepth lectures on ML algorithms, information theory, and statistics
 
 ### [AP Monitor](https://apm.byu.edu/) - Brigham Young University - Course Website
 * Course website on dynamic optimization and control
@@ -146,7 +146,7 @@ This document contains a list of resources for learning about Machine Learning a
   * Can be very simple
     * Example: Plotting points and drawing a line through it (linear regression model)
   * Can be very complex
-    * Example: **Artificial Neural Networks (ANN)** (which just a really big non-linear regression model)
+    * Example: **Artificial Neural Networks (ANN)** (which is just a really big non-linear regression model)
   * Popular algorthims
     * K-Nearest Neighbor (KNN)
     * K-means
