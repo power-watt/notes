@@ -2,13 +2,21 @@
 ## Popular Python Modules
 ### [Requests](http://docs.python-requests.org/en/master/) - python module
 * For sending http(s) requests and interacting with the internet
-* This [example](https://pybit.es/requests-session.html) shows how to establish a session connection and pass login credentials as cookie data.
+* This [example](https://pybit.es/requests-session.html) shows how to establish a **session** connection and pass login credentials as cookie data.
+* This [example](http://edmundmartin.com/random-user-agent-requests-python/) shows how to change the **User-Agent Header**
+   * This makes your requests look more organic and less artificial.
 ### [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - python module
 * For parsing HTML
 * See this [example](https://stackoverflow.com/questions/41720896/python-beautifulsoup-parsing-html)
 ### [Selenium](https://www.seleniumhq.org/) - python module
 * For web browser automation
 * [Unofficial Documentation](http://selenium-python.readthedocs.io/)
+### Other useful things to know
+* **Regular Expressions (RegEx)** 
+    * The RegEx python module is called [re](https://docs.python.org/3/library/re.html) 
+    * For building custom/complex text parsers
+* [Scrapy](https://scrapy.org/) - Python module for building web spiders
+* [Socket](https://docs.python.org/3.7/library/socket.html) - Python module for web sockets
 ## Learning Resources
 ### [University of Utah Introduction To Data Science](http://datasciencecourse.net/2018/) - Jupyter Notebooks
 * [API Lecture](https://github.com/datascience-course/2018-datascience-lectures/blob/master/12-Scraping-APIs/lecture-12-apis.ipynb)
